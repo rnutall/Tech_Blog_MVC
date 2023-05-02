@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS NoirTech_Blog;
+CREATE DATABASE NoirTech_Blog;
